@@ -17,7 +17,7 @@ L'objectif de cette phase est de concevoir une interface utilisateur intuitive e
 
 À la fin de cette étape, les éléments suivants sont opérationnels :
 
-- **Conception UI :** Maquette haute fidélité de la page Property Details
+- **Conception UI :** Maquette haute fidélité de home page
 - **Analyse :** Diagramme de cas d'utilisation (Use Case) complété
 
 ## 👥 Perspective Utilisateur
