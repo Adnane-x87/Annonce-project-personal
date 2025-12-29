@@ -24,8 +24,6 @@ L'objectif de cette phase est de concevoir une interface utilisateur intuitive e
 
 ### Cas d'Utilisation
  
- ![useCas Page](assets/rating.png)
-
 
 Le système permet aux futurs acquéreurs de :
 
