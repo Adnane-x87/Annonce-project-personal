@@ -1,1 +1,1 @@
-php deployment
+php ini config before deploy
