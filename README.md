@@ -136,7 +136,6 @@ Le flux utilisateur suit le diagramme de cas d'utilisation conçu pour ce sprint
 
 ### 4. Témoignages Clients
 * Design glassmorphism sur fond sombre
-* Notes étoilées (★★★★★)
 * Avatar et informations du client
 * Effet backdrop-blur
 
