@@ -84,7 +84,6 @@ Focus Principal : Développement du Portail Public
 - Outils : Tailwind CSS (4)
 
 ![Home Page](assets/homepage.png)
-![Rating Page](assets/rating.png)
 ![Footer Page](assets/footer.png)
 
 
