@@ -93,7 +93,7 @@ Focus Principal : Développement du Portail Public
 Structure de la base de données et relations entre les entités :
 
 
-![diagramme de class](assets/diagramme-de-class.png)
+![diagramme de class](assets/dg-class.png)
 
 
 ## Diagramme de cas d'utilisation
