@@ -69,9 +69,7 @@ Focus Principal : Développement du Portail Public
  **Réalisation de la Page "Home Page" :** Développement complet de la fiche produit intégrant :
 
 - Hero with search form
-- "Why Choose Us" features section
 - Featured properties preview
-- Testimonials
 - CTA section
 
 
