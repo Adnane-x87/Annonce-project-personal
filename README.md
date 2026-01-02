@@ -35,7 +35,7 @@ Le projet RealEstate Pro est une plateforme web moderne conçue pour la gestion 
 
 Analyse de plateformes existantes :
 
-- **PropertyFinder**
+- **housinganywhere**
 - **Avito Immobilier**
 - **Leboncoin Immobilier**
 
