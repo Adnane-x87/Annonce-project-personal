@@ -29,7 +29,7 @@ Le projet RealEstate Pro est une plateforme web moderne conçue pour la gestion 
 
 - Sprint 1 : Portail Public & Recherche.
 
-![methode](assets/scrum-methodology.webp)
+![methode](assets/blog-scrum-process-opt_0.jpg)
 
 ### Méthode Recherche & Inspiration
 
