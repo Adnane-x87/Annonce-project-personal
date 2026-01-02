@@ -115,15 +115,9 @@ Le flux utilisateur suit le diagramme de cas d'utilisation conçu pour ce sprint
 * Badge de distinction (#1 Rated Agency)
 * Formulaire de recherche avancée intégré (Localisation, Type, Prix)
 
-### 2. Grille d'Informations "Pourquoi Nous Choisir"
-* 4 cartes avec icônes animées :
-   * ✅ Annonces Vérifiées
-   * 👥 Agents Experts
-   * ⏱️ Processus Simplifié
-   * 📞 Support 24/7
-* Effet hover avec ombre portée
 
-### 3. Section Propriétés en Vedette
+
+### 2. Section Propriétés en Vedette
 * Affichage de 3 propriétés phares en grille responsive
 * Cartes avec :
    * Image avec zoom au survol
@@ -131,17 +125,8 @@ Le flux utilisateur suit le diagramme de cas d'utilisation conçu pour ce sprint
    * Prix, localisation, chambres/salles de bain
 * Lien vers la liste complète
 
-### 4. Témoignages Clients
-* Design glassmorphism sur fond sombre
-* Avatar et informations du client
-* Effet backdrop-blur
 
-### 5. Call-To-Action (CTA)
-* Section avec gradient dynamique
-* Boutons d'action principaux
-* Animation de transition au hover
-
-### 6. Footer Complet
+### 3. Footer Complet
 * Logo et description de l'agence
 * Liens de navigation organisés en colonnes
 * Informations de contact avec icônes
